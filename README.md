@@ -25,9 +25,8 @@ Project Purpose:
 ##############################################
 
 Variables
-
-PRICE – Customer's spending amount
-SOURCE – The type of device the customer is connecting to
-SEX – Gender of the client
-COUNTRY – Customer's country
-AGE – Age of the customer
+-PRICE – Customer's spending amount
+-SOURCE – The type of device the customer is connecting to
+-SEX – Gender of the client
+-COUNTRY – Customer's country
+-AGE – Age of the customer
